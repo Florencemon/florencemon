@@ -1,6 +1,6 @@
 <h2> Hi, I'm Florencemon! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media1.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif?cid=790b7611003d8e15fcdac53203a89fdbda5c78ae5c8683b3&rid=giphy.gif&ct=s" width="230">
+<img align='right' src="https://media0.giphy.com/media/A89afiY5XmUN9pkRQK/giphy.gif?cid=790b76112585692138d014cb27e6dc1b6e9de5ddd01c6770&rid=giphy.gif&ct=s" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
