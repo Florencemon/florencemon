@@ -10,7 +10,7 @@ const florencemon = {
   code: [HTML, CSS, Python],
   challenge: "I am doing the #100DaysOfCode challenge focused on python",
   hobbies: "Drawing, Coding, Design, Pokémon, Data analytic",
-  funFact: "I'm so curious & I have fun learning"
+  funFact: "I like to draw and I designed that gif 👉"
 }
 
 
