@@ -7,10 +7,11 @@
 ```javascript
 const florencemon = {
   🔭 pronouns: "she" | "her",
-  🌱code: [HTML, CSS, Python],
+  🌱code: [HTML, CSS, Javascript, Python, Django, React],
   💬 Currently working on: "proyect focused on python",
   📫 hobbies: "Drawing, Coding, Design, Pokémon, Data analytic",
   ⚡ funFact: "I like to draw and I designed that gif 👉"
+  🤓 I'm currently studying frontend development 🤘
 }
 
 
