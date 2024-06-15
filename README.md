@@ -1,21 +1,21 @@
-<h2> Hi, I'm Florencemon! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src='https://media.licdn.com/dms/image/D4D16AQEZFKVrAbVB8A/profile-displaybackgroundimage-shrink_350_1400/0/1712249505084?e=1723680000&v=beta&t=pCTTTbkRvllFT0QtandaNqTAH07V3CRh74IF_8pynTE'>
 
+<h1> Hola, Soy Flor!👩‍💻 </h1>
 <img align='right' src="https://media0.giphy.com/media/A89afiY5XmUN9pkRQK/giphy.gif?cid=790b76112585692138d014cb27e6dc1b6e9de5ddd01c6770&rid=giphy.gif&ct=s" width="230">
+## 👨‍💻 Analista de Datos | 📊 Data Science | 📈 Visualización de Datos
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### ℹ️ Sobre mí
 
-```javascript
-const florencemon = {
-  🔭 pronouns: "she" | "her",
-  🌱code: [HTML, CSS, Javascript, Python, Django, React],
-  💬 Currently working on: "proyect focused on python",
-  📫 hobbies: "Drawing, Coding, Design, Pokémon, Data analytic",
-  ⚡ funFact: "I like to draw and I designed that gif 👉"
-  🤓 I'm currently studying frontend development 🤘
-}
+🔍Soy Bibliotecaria pero hace años trabajo como analista, lo que me dio sólidos conocimientos sobre Excel. 
+💻Desde mediados de 2022, decidí adentrarme en el mundo de los datos de forma autodidacta. 
+📊En el año 2023 ingresé a trabajar como analista de datos, lo que me permitió adquirir habilidades avanzadas en SQL, Python y herramientas de reportes y visualización de datos como Power BI. 
+🎓Y, finalmente, en el año 2024, llevé mi aprendizaje un paso más allá al ingresar a la carrera de Ciencia de Datos, porque si bien mi título en bibliotecología me dio muchas habilidades requeridas para ser un analista de datos (administración, lógica, procesamiento de datos, etc), profesionalmente sentía que me faltaban habilidades técnicas específicas y aprender el manejo de los programas de software para el análisis de Datos, y eso me llevó a ingresar a estudiar la tecnicatura en Ciencia de Datos e Inteligencia Artificial. 
+
+📚Me encanta aprender y la curiosidad siempre me empuja a explorar nuevas tecnologías y herramientas que me permitan resolver problemas y aportar soluciones creativas. 
 
 
-```
+
+ 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
