@@ -20,7 +20,7 @@
 <a href="https://codepen.io/flormonroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flormonroe" height="30" width="40" /></a>
 <a href="https://dev.to/florencemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="florencemon" height="30" width="40" /></a>
 <a href="https://twitter.com/florchirino22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="florchirino22" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/florencia-chirino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florencia.chirino" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florencia-chirino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florencia.chirino" height="30" width="40" /></a>
 <a href="https://discord.gg/flormonroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="flormonroe" height="30" width="40" /></a>
 </p>
 
